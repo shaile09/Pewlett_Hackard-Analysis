@@ -19,7 +19,7 @@ Using the ERD, we were able to see the relationshipd between the six different t
 
 As we started quearing our flies, we began to think about the commonlities between these tables. 
 
-![](ERD_updated.PNG)
+![](ERD_updated.png)
 
 Number of title Retiring 
 
